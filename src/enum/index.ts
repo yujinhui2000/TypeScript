@@ -14,3 +14,6 @@ export enum StrType {
 }
 
 
+console.log("test");
+
+
