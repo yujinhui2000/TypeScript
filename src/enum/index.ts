@@ -16,6 +16,7 @@ export enum StrType {
 
 console.log("test");
 console.log("dddd");
+console.log("ssss");
 
 
 
